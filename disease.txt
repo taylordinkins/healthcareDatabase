@@ -1,0 +1,8 @@
+1001,"COPD"
+1002,"HIV/AIDS"
+1003,"Diabetes"
+1004,"Lukemia"
+1005,"Hepatitis A"
+1006,"MRSA"
+1007,"Tetanus"
+1008,"Alzheimer's"

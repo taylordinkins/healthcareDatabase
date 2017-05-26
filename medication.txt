@@ -1,0 +1,15 @@
+1001,"Vicodin 5mg/300mg  - 30 Tablets","Abbott Laboratories",36.68
+1002,"Zocor 5mg - 30 Tablets","Merck & Co.",110
+1003,"Lisinopril 20mg - 30 Tablets","Merck & Co.",51
+1004,"Levothyroxine 50mcg - 30 Tablets","Mylan",13.99
+1005,"Norvasc 5mg - 30 Tablets","Merck & Co.",41.89
+1006,"Prilosec 20mg - 14 Tablets","Procter and Gamble",11.99
+1007,"Zithromax 250mg - 5 Tablets","Pfizer",84.62
+1008,"Amoxicillin 250mg - 4 Capsules","Mylan",8
+1009,"Metformin 500mg - 14 Tablets","Teva Pharmaceuticals",10
+1010,"Hydrochlorothiazide 12.5mg - 30 Capsules","Teva Pharmaceuticals",14
+1011,"OxyContin 80mg ER Tablet","Purdue Pharma LP",6
+1012,"Novolog 10mL","Novo Nordisk",296
+1013,"Lantus 15mL","Sanofi-Aventis",397
+1014,"Zoloft 25mg - 30 Tablets","Pfizer",168.77
+1015,"Wellbutrin 150mg - 15 Tablets","Valeant Pharmaceuticals",272
